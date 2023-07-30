@@ -1,0 +1,32 @@
+.Main-Div{
+    width:400px;
+    height:500px;
+    border: 3px solid black;
+    border-radius: 30px;
+    margin:auto;
+    margin-top:70px;
+    background-color: pink;
+}
+h2{
+    color:brown;
+    margin-top:30px;
+}
+#ht,#wt,#bmiVal,#bmi{
+    color:rgb(16, 16, 77);
+    margin:15px;
+    width:200px;
+    border-color: chocolate;
+}
+
+h3{
+    color:rgb(63, 22, 123);
+}
+button{
+    width:100px;
+    color:rgb(63, 22, 123);
+    background-color: rgb(211, 236, 50);
+}
+#cal,#reset{
+    margin:20px;
+
+}
